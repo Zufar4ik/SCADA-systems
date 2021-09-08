@@ -2,7 +2,10 @@ import React from 'react';
 import { Group, Line, Rect, Circle } from 'react-konva';
 
 
+
+
 class Regulator extends React.Component {
+
     render() {
         return (
 

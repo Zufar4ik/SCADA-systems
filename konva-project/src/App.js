@@ -5,13 +5,16 @@ import './App.css'
 
 
 class App extends React.Component {
+
   render() {
     return (
+
       <div>
         <CanvasHolst />
       </div>
     )
   }
+
 }
 
 
@@ -33,22 +36,22 @@ export default App;
 //     return (
 
 
-      // <div>
-      //   <button onClick={() => this.openModal()}>123</button>
-      //     <Modal isOpen={this.state.isModalOpen} onClose={() => this.closeModal()}>
-      //       <button className='closeModal' onClick={() => this.closeModal()}>Выход</button>
-      //     </Modal>
-      // </div>
+//       <div>
+//         <button onClick={() => this.openModal()}>123</button>
+//           <Modal isOpen={this.state.isModalOpen} onClose={() => this.closeModal()}>
+//             <button className='closeModal' onClick={() => this.closeModal()}>Выход</button>
+//           </Modal>
+//       </div>
 //     )
 //   }
 
-  // openModal() {
-  //   this.setState({ isModalOpen: true })
-  // }
+//   openModal() {
+//     this.setState({ isModalOpen: true })
+//   }
 
-  // closeModal() {
-  //   this.setState({ isModalOpen: false })
-  // }
+//   closeModal() {
+//     this.setState({ isModalOpen: false })
+//   }
 // }
 
 

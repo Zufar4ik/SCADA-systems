@@ -1,0 +1,44 @@
+{
+    "block": {
+        "id": "1",
+        "position": {
+            "x": 10,
+            "y": 0
+        }
+    },
+    "cistern": {
+        "id": "2",
+        "position": {
+            "x": 150,
+            "y": 0
+        }
+    },
+    "conteiner": {
+        "id": "3",
+        "position": {
+            "x": 400,
+            "y": 0
+        }
+    },
+    "flag": {
+        "id": "4",
+        "position": {
+            "x": 700,
+            "y": 0
+        }
+    },
+    "gatevalve": {
+        "id": "5",
+        "position": {
+            "x": 100,
+            "y": 0
+        }
+    },
+    "regulator": {
+        "id": "6",
+        "position": {
+            "x": 1000,
+            "y": 150
+        }
+    }
+}
